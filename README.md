@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=charles-ramos)
 
-- :school: I’m currently studying 📏👽 Analysis and Systems Development at Faculdade de Tecnologia de São José dos Campos [@FATEC](http://fatecsjc-prd.azurewebsites.net/)
+- :school: I’m currently studying 📏👽 Analysis and Systems Development at [Faculdade de Tecnologia de São José dos Campos FATEC](http://fatecsjc-prd.azurewebsites.net/)
 - 🌱 I’m currently learning JAVA and ReactJS.
 - 🔭 I’m currently working at [Back4App](https://github.com/back4app), check some [templates here](https://github.com/templates-back4app).
 - :earth_americas: I'm from São José dos Campos - São Paulo, Brazil
-- 📫 How to reach me: [Send me a email](mailto:charles.ramos@fatec.sp.gov.br)
+- 📫 How to reach me: [email me](mailto:charles.ramos@fatec.sp.gov.br)
 
 ## ➤ My stats
 
