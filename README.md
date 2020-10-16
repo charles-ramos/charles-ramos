@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![LinkedIn Badge](https://img.shields.io/badge/charles-ramos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlesframos/)](https://www.linkedin.com/in/charlesframos/)
+
+[![Email Badge](https://img.shields.io/badge/contact-charles.ferreira.ramos@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/charlesframos/)](https://www.linkedin.com/in/charlesframos/)
+
 ![](https://komarev.com/ghpvc/?username=charles-ramos)
 
 - :school: I’m currently studying 📏👽 Analysis and Systems Development at [Faculdade de Tecnologia de São José dos Campos FATEC](http://fatecsjc-prd.azurewebsites.net/)
 - 🌱 I’m currently learning JAVA and ReactJS.
 - 🔭 I’m currently working at [Back4App](https://github.com/back4app), check some [templates here](https://github.com/templates-back4app).
 - :earth_americas: I'm from São José dos Campos - São Paulo, Brazil
-- 📫 How to reach me: [email me](mailto:charles.ramos@fatec.sp.gov.br)
 
 ## ➤ My stats
 
