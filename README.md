@@ -29,5 +29,3 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=charles-ramos&count_private=true&show_icons=true&theme=radical" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-ramos&layout=compact&theme=radical" />
 </a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/charles-ramos/github-readme-stats)
