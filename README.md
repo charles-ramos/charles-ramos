@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ## ➤ My stats
 
 <a href="https://github.com/charles-ramos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=charles-ramos&count_private=true&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-ramos&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=charles-ramos&count_private=true&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-ramos&layout=compact&theme=dracula" />
 </a>
