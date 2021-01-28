@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=charles-ramos)
 
-- I’m currently studying Analysis and Systems Development at [Faculdade de Tecnologia de São José dos Campos FATEC](http://fatecsjc-prd.azurewebsites.net/), learning Javascript.
+- I’m currently studying Analysis and Systems Development at [Faculdade de Tecnologia de São José dos Campos FATEC](http://fatecsjc-prd.azurewebsites.net/), and learning Javascript.
   
 - I'm working at [Back4App](https://github.com/back4app), check some [templates here](https://github.com/templates-back4app).
 
