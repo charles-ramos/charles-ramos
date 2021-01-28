@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
 -->
 
 ![](https://komarev.com/ghpvc/?username=charles-ramos)
