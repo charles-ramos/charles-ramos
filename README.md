@@ -22,7 +22,7 @@ all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/
 
 - I’m currently studying Analysis and Systems Development at [Faculdade de Tecnologia de São José dos Campos FATEC](http://fatecsjc-prd.azurewebsites.net/), and learning Javascript.
   
-- I'm working at [Back4App](https://github.com/back4app), check some [templates here](https://github.com/templates-back4app).
+- Customer Success Engineer at [Back4App](https://github.com/back4app), check some [templates here](https://github.com/templates-back4app).
 
 - :earth_americas: I'm from São José dos Campos - São Paulo, Brazil
 
