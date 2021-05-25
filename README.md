@@ -27,7 +27,9 @@ all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/
 - :earth_americas: I'm from São José dos Campos - São Paulo, Brazil
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/charles-ramos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlesframos/)](https://www.linkedin.com/in/charlesframos/)[![Email Badge](https://img.shields.io/badge/contact-charles.ferreira.ramos@gmail.com-red?style=for-the-badge&link=mailto:charles.ferreira.ramos@gmail.com)](mailto:charles.ferreira.ramos@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/charles-ramos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlesframos/)](https://www.linkedin.com/in/charlesframos/)
+
+[![Email Badge](https://img.shields.io/badge/contact-charles.ferreira.ramos@gmail.com-red?style=for-the-badge&link=mailto:charles.ferreira.ramos@gmail.com)](mailto:charles.ferreira.ramos@gmail.com)
 
 ## ➤ My stats
 
