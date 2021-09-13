@@ -22,7 +22,7 @@ all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/
 
 - I’m currently studying Analysis and Systems Development at [Faculdade de Tecnologia de São José dos Campos FATEC](http://fatecsjc-prd.azurewebsites.net/), and learning Javascript.
   
-- Customer Success Engineer at [Back4App](https://github.com/back4app), check some [templates here](https://github.com/templates-back4app).
+- IT Support Analyst at [Back4App](https://github.com/back4app), check some [templates here](https://github.com/templates-back4app).
 
 [![LinkedIn Badge](https://img.shields.io/badge/charles-ramos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlesframos/)](https://www.linkedin.com/in/charlesframos/)
 
