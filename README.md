@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C15F7&size=25&center=true&multiline=true&width=1000&height=100&lines=Hey%2C+hey%2C+stranger!+%F0%9F%91%8B;I'm+Charles+Ramos%2C+a+student+of+Development+and+Systems+Analysis;Welcome+%F0%9F%98%8A)](https://git.io/typing-svg)
-
 ![](https://komarev.com/ghpvc/?username=charles-ramos)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C15F7&size=25&center=true&multiline=true&width=1000&height=100&lines=Hey%2C+hey%2C+stranger!+%F0%9F%91%8B;I'm+Charles+Ramos%2C+a+student+of+Development+and+Systems+Analysis.;Welcome+%F0%9F%98%8A)](https://git.io/typing-svg)
+
 
 <!-- - I’m currently studying Analysis and Systems Development at [Faculdade de Tecnologia de São José dos Campos FATEC](http://fatecsjc-prd.azurewebsites.net/), and learning Javascript. -->
   
 <!-- - IT Support Analyst at [Back4App](https://github.com/back4app), check some [templates here](https://github.com/templates-back4app). -->
-
+<!-- 
 [![LinkedIn Badge](https://img.shields.io/badge/charles-ramos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlesframos/)](https://www.linkedin.com/in/charlesframos/)
 
-[![Email Badge](https://img.shields.io/badge/contact-charles.ferreira.ramos@gmail.com-red?style=for-the-badge&link=mailto:charles.ferreira.ramos@gmail.com)](mailto:charles.ferreira.ramos@gmail.com)
+[![Email Badge](https://img.shields.io/badge/contact-charles.ferreira.ramos@gmail.com-red?style=for-the-badge&link=mailto:charles.ferreira.ramos@gmail.com)](mailto:charles.ferreira.ramos@gmail.com) -->
 
 ## ➤ Contributions
 
