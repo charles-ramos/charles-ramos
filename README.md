@@ -29,11 +29,11 @@ all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/
 [![LinkedIn Badge](https://img.shields.io/badge/charles-ramos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlesframos/)](https://www.linkedin.com/in/charlesframos/)
 
 [![Email Badge](https://img.shields.io/badge/contact-charles.ferreira.ramos@gmail.com-red?style=for-the-badge&link=mailto:charles.ferreira.ramos@gmail.com)](mailto:charles.ferreira.ramos@gmail.com) -->
-
+<!-- 
 ## ➤ Contributions
 
 <a><img alt="Charles Ramos' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=charles-ramos&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+ -->
 ## ➤ My stats
 
 <a href="https://github.com/charles-ramos">
