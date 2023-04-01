@@ -19,7 +19,7 @@ all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/
 -->
 ![](https://komarev.com/ghpvc/?username=charles-ramos)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C15F7&size=25&center=true&multiline=true&width=1000&height=100&lines=Hey%2C+hey%2C+stranger!+%F0%9F%91%8B;I'm+Charles+Ramos%2C+a+student+of+Development+and+Systems+Analysis.;Welcome+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C15F7&size=25&center=true&multiline=true&width=1000&height=100&lines=Hey%2C+hey%2C+there!+%F0%9F%91%8B;This+is+Charles+Ramos.;Welcome+to+my+GitHub+Profile+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 
 <!-- - I’m currently studying Analysis and Systems Development at [Faculdade de Tecnologia de São José dos Campos FATEC](http://fatecsjc-prd.azurewebsites.net/), and learning Javascript. -->
