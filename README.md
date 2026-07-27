@@ -8,9 +8,3 @@
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charles-ramos&layout=compact&theme=default" />
 </a>
 </div>
-
-###
-
-<br clear="both">
-
-###
